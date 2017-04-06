@@ -1,0 +1,7 @@
+These are the original MIDI files created by Bobby Prince for the game 
+Wolfenstein 3D. They were downloaded from his Web page, but are no longer 
+available.
+
+When they were converted to IMF format to be played as FM synthesis for the 
+game there was a noticeable loss of quality. This is how the songs were 
+originally intended to sound.
